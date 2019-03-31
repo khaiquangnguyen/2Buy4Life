@@ -1,50 +1,98 @@
 STUDY TABLE
-------------
+===========
 Colons can be used to align columns.
 
-|     Item               |Quantity       | Link          | Budget |
+|     Item               |Quantity       | Specify       | Total Budget |
 | -------------          |:-------------:|:-------------:| :-----:|
-| **Speakers**           |      1        | TBD           | $  |
-| **Lamp**               |      3        | TBD           |   $12  |
-| **Microphone**         |      1        | TBD           |    $1  |
-| **Table**              |      1        | TBD           |    $1  |
-| **PC**                 |      1        | TBD           |    $1  |
-| **Boom Arm**           |      1        | TBD           |    $1  |
-| **Monitors**           |      3        | TBD           |    $1  |
-| **Monitor Arm**        |      3        | TBD           |    $1  |
-| **Keyboard**           |      2        | TBD           |    $1  |
-| **Mouse**              |      2        | TBD           |    $1  |
-| **Chair**              |      1        | TBD           |    $1  |
-| **In-ear headphone**   |      1        | TBD           |    $1  |
-| **Over-ear headphone** |      1        | TBD           |    $1  |
-| **Webcam**             |      1        | TBD           |    $1  |
+| **Speakers**           |      1        | TBD           |   $2000  |
+| **Lamp**               |      3        | TBD           |   $1000  |
+| **Microphone**         |      1        | TBD           |    550   |
+| **Table**              |      1        | TBD           |    $3000 |
+| **PC**                 |      1        | TBD           |    $10000|
+| **Boom Arm**           |      1        | TBD           |    $150  |
+| **Monitors**           |      3        | TBD           |    $3000 |
+| **Monitor Arm**        |      3        | TBD           |    $300  |
+| **Keyboard**           |      4        | TBD           |    $1000 |
+| **Mouse**              |      2        | TBD           |    $200  |
+| **Chair**              |      1        | TBD           |    $2000 |
+| **In-ear headphone**   |      2        | TBD           |    $500  |
+| **Over-ear headphone** |      1        | TBD           |    $500  |
+| **Webcam**             |      1        | TBD           |    $500  |
 
 
 
 # CLOTHES
-|     Item       | Link          | Budget |
-| -------------  |:-------------:| :-----:|
-| **Speakers**   | TBD           | $1600  |
-| **Lamp**       | TBD           |   $12  |
-| **Microphone** | TBD           |    $1  |
-| **Table**      | TBD           |    $1  |
-| **PC**         | TBD           |    $1  |
-| **Boom Arm**   | TBD           |    $1  |
-| **Monitors**   | TBD           |    $1  |
-| **Monitor Arm**| TBD           |    $1  |
-| **Total**      | TBD           |    $1  |
-| **Keyboard**      | TBD           |    $1  |
-| **Mouse**      | TBD           |    $1  |
-| **Chair**      | TBD           |    $1  |
-| **In-ear headphone**      | TBD           |    $1  |
-| **Over-ear headphone**      | TBD           |    $1  |
+
+### Watches
+
+|     Index       |   Name        | Link          | Total Budget |
+| -------------   |:-------------:|:-------------:| :-----------:|
+| **1**           |      TBD      | TBD           | $1000        |
+| **2**           |      TBD      | TBD           |   $1000      |
+| **3**           |      TBD      | TBD           |    550       |
+| **4**           |      TBD      | TBD           |    $3000     |
+| **5**           |      TBD      | TBD           |    $10000    |
+| **6**           |      TBD      | TBD           |    $150      |
+| **7**           |      TBD      | TBD           |    $3000     |
 
 
+
+
+|     Item               |Quantity       | Link          | Total Budget |
+| -------------          |:-------------:|:-------------:| :-----:|
+| **Speakers**           |      1        | TBD           | $1000    |
+| **Lamp**               |      3        | TBD           |   $1000  |
+| **Microphone**         |      1        | TBD           |    550   |
+| **Table**              |      1        | TBD           |    $3000 |
+| **PC**                 |      1        | TBD           |    $10000|
+| **Boom Arm**           |      1        | TBD           |    $150  |
+| **Monitors**           |      3        | TBD           |    $3000 |
+| **Monitor Arm**        |      3        | TBD           |    $300  |
+| **Keyboard**           |      4        | TBD           |    $1000 |
+| **Mouse**              |      2        | TBD           |    $200  |
+| **Chair**              |      1        | TBD           |    $2000 |
+| **In-ear headphone**   |      2        | TBD           |    $500  |
+| **Over-ear headphone** |      1        | TBD           |    $500  |
+| **Webcam**             |      1        | TBD           |    $500  |
+
+
+# BEDROOM
+|     Item               |Quantity       | Link          | Total Budget |
+| -------------          |:-------------:|:-------------:| :-----:|
+| **Speakers**           |      1        | TBD           | $1000    |
+| **Lamp**               |      3        | TBD           |   $1000  |
+| **Microphone**         |      1        | TBD           |    550   |
+| **Table**              |      1        | TBD           |    $3000 |
+| **PC**                 |      1        | TBD           |    $10000|
+| **Boom Arm**           |      1        | TBD           |    $150  |
+| **Monitors**           |      3        | TBD           |    $3000 |
+| **Monitor Arm**        |      3        | TBD           |    $300  |
+| **Keyboard**           |      4        | TBD           |    $1000 |
+| **Mouse**              |      2        | TBD           |    $200  |
+| **Chair**              |      1        | TBD           |    $2000 |
+| **In-ear headphone**   |      2        | TBD           |    $500  |
+| **Over-ear headphone** |      1        | TBD           |    $500  |
+| **Webcam**             |      1        | TBD           |    $500  |
 
 # PERSONAL ITEMS
 
 
 # LUXURIES
+|     Item               |Quantity       | Link          | Total Budget |
+| -------------          |:-------------:|:-------------:| :-----:|
+| **Speakers**           |      1        | TBD           | $1000    |
+| **Lamp**               |      3        | TBD           |   $1000  |
+| **Microphone**         |      1        | TBD           |    550   |
+| **Table**              |      1        | TBD           |    $3000 |
+| **PC**                 |      1        | TBD           |    $10000|
+| **Boom Arm**           |      1        | TBD           |    $150  |
+| **Monitors**           |      3        | TBD           |    $3000 |
+| **Monitor Arm**        |      3        | TBD           |    $300  |
+| **Keyboard**           |      4        | TBD           |    $1000 |
+| **Mouse**              |      2        | TBD           |    $200  |
+| **Chair**              |      1        | TBD           |    $2000 |
+| **In-ear headphone**   |      2        | TBD           |    $500  |
+| **Over-ear headphone** |      1        | TBD           |    $500  |
+| **Webcam**             |      1        | TBD           |    $500  |
 
 
-# LUXURIES
